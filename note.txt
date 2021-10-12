@@ -1,0 +1,2 @@
+rcnn-lstm-model.h5
+tokenizer.pickle
