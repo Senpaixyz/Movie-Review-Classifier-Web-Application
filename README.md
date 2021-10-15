@@ -9,7 +9,7 @@ The goal of this web application was to predict the negativity and positivity of
 ## Features
 
 - The model can predict multiple phrases and convert the percentage of negativity rate and positivity rate.
-- It  the model has  84.04% accuracy 
+- The model has  84.04% accuracy 
 - It can be deployed in realtime or be use as API.
 
 ## Instruction
