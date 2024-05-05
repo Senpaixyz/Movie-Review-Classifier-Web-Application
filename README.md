@@ -1,11 +1,9 @@
 # Movie Review Classifier (RNN/LSTM)
-##### _The model build from RNN and LSTM networks layers_
 
-The goal of this web application was to predict the negativity and positivity of the phrase using sentiment analysis. Each character convert to each respective unique token that later on vectorize and input to model then the model will gives some prediction accuracy both Positive and Negative percentage rate.
+The aim of this web application was to assess the sentiment, whether positive or negative, of given phrases through sentiment analysis. Each character in the phrase was mapped to a unique token, which was then vectorized and fed into the model. The model, constructed using RNN and LSTM network layers, provided predictions indicating the accuracy of positivity and negativity, expressed as percentage rates. This approach facilitated the evaluation of sentiment in text, enhancing understanding and interpretation of the underlying emotional tone.
 
 [![N|Solid](https://github.com/Senpaixyz/Movie-Review-Classifier-Web-Application/blob/master/images/landingPage.PNG?raw=true)](https://github.com/Senpaixyz/Movie-Review-Classifier-Web-Application/blob/master/images/landingPage.PNG)
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/Senpaixyz/faceEmotion-classifierr)
 ## Features
 
 - The model can predict multiple phrases and convert the percentage of negativity rate and positivity rate.
